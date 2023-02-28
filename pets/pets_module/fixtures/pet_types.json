@@ -1,0 +1,16 @@
+[
+{
+    "model": "pets_module.pettype",
+    "pk": 1,
+    "fields": {
+        "name": "cat"
+    }
+},
+{
+    "model": "pets_module.pettype",
+    "pk": 2,
+    "fields": {
+        "name": "dog"
+    }
+}
+]
